@@ -8,7 +8,6 @@ body {
     font-weight: 400;
     font-size: 16px;
     font-family: 'Roboto', sans-serif;
-    max-width: 1440px;
 }
 
 h1,
@@ -144,7 +143,7 @@ img {
     letter-spacing: 0.02em;
     margin: 0 auto;
     text-align: center;
-    padding-bottom: 48px;
+    margin-bottom: 48px;
     max-width: 496px;
 }
 
